@@ -14,11 +14,11 @@
 # 3. Data Understanding
 ![image](https://user-images.githubusercontent.com/99848899/207518041-09a8df18-8bf7-4203-93d2-ee99b4a66974.png)
 
-# 5. Data Visualization
+# 4. Data Visualization
 ![image](https://user-images.githubusercontent.com/99848899/207518173-1559350f-472d-4585-a0c9-6916a131590d.png)
 ![image](https://user-images.githubusercontent.com/99848899/207518243-d8c9b476-d9f4-4400-869d-a62f1583b1c8.png)
 
-# 7. Performed Assumption Check
+# 5. Performed Assumption Check
 ![image](https://user-images.githubusercontent.com/99848899/207534218-2ae106a2-bee8-42b5-92f5-1805c7b6f319.png)
 
 # 6. Applied Neural Network :
