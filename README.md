@@ -9,7 +9,7 @@ We Have Used Below Steps To Complete Project :
 4. Data Visualization
 5. Performed Assumption Check
 
-6. Applied Neural Network 
+6. Applied Neural Network :
   MODEL 1 - Stacked LSTM ,
   MODEL 2 - Bidirectional LSTM ,
   MODEL 3 - GRU (Gated Recurrent Unit) LSTM ,
