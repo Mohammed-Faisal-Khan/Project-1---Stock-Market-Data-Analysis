@@ -1,4 +1,6 @@
 # Project-1---Stock-Market-Data-Analysis
+![image](https://user-images.githubusercontent.com/99848899/207516794-cf7b99c8-0f78-4529-811d-db1578a65815.png)
+
 The entire idea of predicting stock price is to gain significant profits.
 
 We Have Used Below Steps To Complete Project :
