@@ -22,13 +22,13 @@ The JSW STEEL dataset has information of 2 Years from 1 Nov 2017 to 1 Nov 2019.
 ![image](https://user-images.githubusercontent.com/99848899/207534218-2ae106a2-bee8-42b5-92f5-1805c7b6f319.png)
 
 6. Applied Neural Network :
-  MODEL 1 - Stacked LSTM ,
+  MODEL 1 - Stacked LSTM
   ![image](https://user-images.githubusercontent.com/99848899/207534397-5189ae65-537d-466e-b32e-63eb7ca23cfa.png)
 
-  MODEL 2 - Bidirectional LSTM ,
+  MODEL 2 - Bidirectional LSTM
   ![image](https://user-images.githubusercontent.com/99848899/207534836-20ebe9a5-9d98-4c4e-bf10-4f05ffa98856.png)
 
-  MODEL 3 - GRU (Gated Recurrent Unit) LSTM ,
+  MODEL 3 - GRU (Gated Recurrent Unit) LSTM
   ![image](https://user-images.githubusercontent.com/99848899/207534905-6beaa336-a3d9-471c-97a7-77d21d56dd4c.png)
 
   MODEL 4 : BGRU (Bidirectional GRU) LSTM
@@ -36,15 +36,16 @@ The JSW STEEL dataset has information of 2 Years from 1 Nov 2017 to 1 Nov 2019.
 
 
 7. Data Driven Forecasting Methods :
-  MODEL 5 - Simple Exponential Method ,
-  MODEL 6 - Holt Method ,
-  MODEL 7 - Holts winter exponential smoothing with additive seasonality and additive trend ,
+  MODEL 5 - Simple Exponential Method
+  MODEL 6 - Holt Method
+  MODEL 7 - Holts winter exponential smoothing with additive seasonality and additive trend
   MODEL 8 - Holts winter exponential smoothing with multiplicative seasonality and additive trend
 
 8. Model based Forecasting Methods :
-  MODEL 9 - Linear Model ,
-  MODEL 10 - Exponential Model ,
-  MODEL 11 - Quadratic Model ,
+  MODEL 9 - Linear Model
+  MODEL 10 - Exponential Model
+  MODEL 11 - Quadratic Model
   MODEL 12 - ARIMA Model
 
 9. Future Forecasting Using LSTM
+![image](https://user-images.githubusercontent.com/99848899/207535532-c04e4f1a-10eb-45a5-947b-48997b6115d7.png)
