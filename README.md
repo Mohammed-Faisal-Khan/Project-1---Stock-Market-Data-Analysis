@@ -9,11 +9,11 @@ We Have Used Below Steps To Complete Project :
 4. Data Visualization
 5. Performed Assumption Check
 
-6. Applied Neural Network
-a. MODEL 1 - Stacked LSTM
-  6.2. MODEL 2 - Bidirectional LSTM
-  6.3. MODEL 3 - GRU (Gated Recurrent Unit) LSTM
-  6.4. MODEL 4 : BGRU (Bidirectional GRU) LSTM
+6. Applied Neural Network 
+  MODEL 1 - Stacked LSTM
+  MODEL 2 - Bidirectional LSTM
+  MODEL 3 - GRU (Gated Recurrent Unit) LSTM
+  MODEL 4 : BGRU (Bidirectional GRU) LSTM
 
 7. Data Driven Forecasting Methods
   MODEL 5 - Simple Exponential Method
