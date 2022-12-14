@@ -15,16 +15,16 @@ We Have Used Below Steps To Complete Project :
   MODEL 3 - GRU (Gated Recurrent Unit) LSTM ,
   MODEL 4 : BGRU (Bidirectional GRU) LSTM
 
-7. Data Driven Forecasting Methods
-  MODEL 5 - Simple Exponential Method
-  MODEL 6 - Holt Method
-  MODEL 7 - Holts winter exponential smoothing with additive seasonality and additive trend
+7. Data Driven Forecasting Methods :
+  MODEL 5 - Simple Exponential Method ,
+  MODEL 6 - Holt Method ,
+  MODEL 7 - Holts winter exponential smoothing with additive seasonality and additive trend ,
   MODEL 8 - Holts winter exponential smoothing with multiplicative seasonality and additive trend
 
-8. Model based Forecasting Methods
-  MODEL 9 - Linear Model
-  MODEL 10 - Exponential Model
-  MODEL 11 - Quadratic Model
+8. Model based Forecasting Methods :
+  MODEL 9 - Linear Model |
+  MODEL 10 - Exponential Model |
+  MODEL 11 - Quadratic Model |
   MODEL 12 - ARIMA Model
 
 9. Future Forecasting Using LSTM
