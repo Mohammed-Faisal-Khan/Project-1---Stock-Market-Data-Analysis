@@ -12,8 +12,10 @@ The JSW STEEL dataset has information of 2 Years from 1 Nov 2017 to 1 Nov 2019.
 
 
 3. Data Understanding
-4. Data Visualization
-5. Performed Assumption Check
+Correlation Matrix :![image](https://user-images.githubusercontent.com/99848899/207517920-05662e31-0ee0-48d1-9a8f-ac25eef1ddd1.png)
+
+5. Data Visualization
+6. Performed Assumption Check
 
 6. Applied Neural Network :
   MODEL 1 - Stacked LSTM ,
