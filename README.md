@@ -22,9 +22,9 @@ We Have Used Below Steps To Complete Project :
   MODEL 8 - Holts winter exponential smoothing with multiplicative seasonality and additive trend
 
 8. Model based Forecasting Methods :
-  MODEL 9 - Linear Model |
-  MODEL 10 - Exponential Model |
-  MODEL 11 - Quadratic Model |
+  MODEL 9 - Linear Model ,
+  MODEL 10 - Exponential Model ,
+  MODEL 11 - Quadratic Model ,
   MODEL 12 - ARIMA Model
 
 9. Future Forecasting Using LSTM
