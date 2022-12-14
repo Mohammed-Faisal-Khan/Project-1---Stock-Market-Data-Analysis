@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/99848899/207516794-cf7b99c8-0f78-4529-811d-db1578a65815.png)
 
-### We Have Used Below Steps For Predicting Price :
+# *We Have Used Below Steps For Predicting Price* :
 
 # 1. Imported Necessary libraries
 # 2. Imported Data - JSW_Steel_Stock_Price
