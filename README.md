@@ -8,7 +8,7 @@ We Have Used Below Steps To Complete Project :
 1. Imported Necessary libraries
 2. Imported Data - JSW_Steel_Stock_Price
 ![image](https://user-images.githubusercontent.com/99848899/207517208-93401d78-2a5d-470d-b489-8c1f5e59c06d.png)
-The JSW STEEL dataset has information of 2 Years from 1 Nov 2017 to 1 Nov 2019. There are 12 columns![image](https://user-images.githubusercontent.com/99848899/207517541-a333c3c6-3722-41a9-a460-b5da769c681d.png)
+The JSW STEEL dataset has information of 2 Years from 1 Nov 2017 to 1 Nov 2019.
 
 
 3. Data Understanding
