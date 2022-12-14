@@ -7,11 +7,11 @@ We Have Used Below Steps To Complete Project :
 
 1. Imported Necessary libraries
 2. Imported Data - JSW_Steel_Stock_Price
-3. ![image](https://user-images.githubusercontent.com/99848899/207517208-93401d78-2a5d-470d-b489-8c1f5e59c06d.png)
+![image](https://user-images.githubusercontent.com/99848899/207517208-93401d78-2a5d-470d-b489-8c1f5e59c06d.png)
 
-4. Data Understanding
-5. Data Visualization
-6. Performed Assumption Check
+3. Data Understanding
+4. Data Visualization
+5. Performed Assumption Check
 
 6. Applied Neural Network :
   MODEL 1 - Stacked LSTM ,
